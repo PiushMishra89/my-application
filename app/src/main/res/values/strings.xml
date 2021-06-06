@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="categories">Categories</string>
+    <string name="products">All Products</string>
+    <string name="products_name">Product Name</string>
+    <string name="select_size">Select Size :</string>
+    <string name="price">1000</string>
+    <string name="size">10</string>
+    <string name="color">Red</string>
+</resources>
